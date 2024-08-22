@@ -1,0 +1,5 @@
+*.pkl
+*.bin
+__pycache__
+out
+out-music-model
